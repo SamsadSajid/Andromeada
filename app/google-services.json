@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630916972507",
+    "firebase_url": "https://andromeada-44d65.firebaseio.com",
+    "project_id": "andromeada-44d65",
+    "storage_bucket": "andromeada-44d65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630916972507:android:45982f32d9ab8bfd",
+        "android_client_info": {
+          "package_name": "com.example.shamsad.andromeada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630916972507-e9or52gpgm84771a4f84ofinnguhbc13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shamsad.andromeada",
+            "certificate_hash": "bcf21f04defeb2bab2622b3d09c0c688ec1ff9a1"
+          }
+        },
+        {
+          "client_id": "630916972507-1naqrgluj2nfssqd7mhr69ih8umcqrrc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4_tzHzALHseSFZ8pN4Ygn4tPL4MMf70E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630916972507-1naqrgluj2nfssqd7mhr69ih8umcqrrc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
